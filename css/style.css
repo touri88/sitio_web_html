@@ -1,0 +1,96 @@
+body {
+    background-color: beige;
+}
+
+nav {
+    background-color: lightgray;
+    padding: 20px;
+}
+
+a.nav {
+    color: darkblue;
+    background-color: antiquewhite;
+    padding: 10px;
+    
+}
+
+a:hover {
+    background-color: darkblue;
+    color: antiquewhite;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+    
+}
+
+h2 {
+    color: darkblue;
+    text-align: left;
+}
+
+h3 {
+    color:darkblue;
+    text-align: left;
+}
+
+img {
+    align-items: stretch;
+}
+
+div.titulo {
+    background-color: lightgray;
+}
+
+footer{
+    color: darkblue;
+    background-color: lightgray;
+    align-self: flex-end;
+}
+
+div.datos {
+    background-color: lightblue;
+    padding: 10px;
+    margin: auto;
+    border-style: solid;
+    text-align: center;
+}
+
+input:hover {
+    background-color: deepskyblue;
+}
+
+input:focus {
+    background-color: peachpuff;
+}
+
+div.form1 {
+    background-color: darkolivegreen;
+    padding: 10px;
+    border-style: solid;
+}
+
+div.form2 {
+    background-color: dimgray;
+    padding: 10px;
+    border-style: solid;
+}
+
+div.form3 {
+    background-color: rgb(138, 111, 4);
+    padding: 10px;
+    border-style: solid;
+}
+
+div.form4 {
+    background-color: rgb(124, 165, 201);
+    padding: 10px;
+    border-style: solid;
+}
+section {
+    display: flex;
+    padding: 10px;
+    border-style: double;
+    
+}
