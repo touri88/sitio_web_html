@@ -5,6 +5,7 @@ body {
 nav {
     background-color: lightgray;
     padding: 20px;
+    justify-content: right;
 }
 
 a.nav {
@@ -92,5 +93,6 @@ section {
     display: flex;
     padding: 10px;
     border-style: double;
+    justify-content: space-between;
     
 }
